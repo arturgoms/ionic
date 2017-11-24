@@ -1,0 +1,8 @@
+{
+  "name": "motomco",
+  "app_id": "ef509993",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
